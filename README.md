@@ -26,12 +26,6 @@ bash https://pfi-backend-tt.vercel.app
 
 ---
 
-## Estructura general del proyecto
-
-text src/ ├── controladores/ ├── data/ ├── middleware/ ├── modelos/ ├── rutas/ └── servicios/
-
-
----
 
 ## Variables de entorno
 
