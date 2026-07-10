@@ -1,0 +1,22 @@
+PROYECTO FINAL/       
+├── src/
+│   ├── controladores/         
+│   │   ├── auth.controller.js
+│   │   └── products.controller.js
+│   ├── data/         
+│   │   ├── firebase.data.js
+│   │   └── token.js
+│   ├── middleware/             
+│   │   └── authentication.js
+│   ├── modelos/             
+│   │   └── products.routes.js
+│   ├── rutas/             
+│   │   ├── auth.routes.js
+│   │   └── products.routes.js
+│   └── servicios/            
+│       └── products.service.js
+├── .env  (dentro de gitignore)                     
+├── .gitignore               
+├── index.js                 
+└── package.json (dentro de gitignore)            
+└── node_modules (dentro de gitignore)             
