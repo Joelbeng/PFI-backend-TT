@@ -9,7 +9,7 @@ La API está desplegada en Vercel y puede ser consumida desde Postman, frontend 
 
 ## URL Base
 
-bash https://pfi-backend-tt.vercel.app
+https://pfi-backend-tt.vercel.app
 
 
 ---
